@@ -1,1 +1,2 @@
-console.log("Hello by Tatami");
+<<<<<<< HEAD
+console.log("Hello by Mark");
