@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    echo "I'm PHP";
+    echo "I'm Code inside PHP tag";
     ?>
 </body>
 </html>
